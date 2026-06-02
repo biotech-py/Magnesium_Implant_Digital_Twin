@@ -1,5 +1,9 @@
 # 🦴 Magnesium Implant Digital Twin
 
+🚀 **Live Demo:** https://magnesiumimplantdigitaltwin-96wkxuah2fmz2pbkhphhux.streamlit.app/
+
+Digital Twin platform for biodegradable magnesium implants integrating corrosion analysis, FESEM morphology, FTIR characterization, XRD phase analysis, and AI-assisted implant suitability prediction.
+
 ### Digital Twin Platform for Biodegradable Magnesium Implants
 
 An interactive Streamlit-based Digital Twin framework developed for evaluating biodegradable magnesium implant coatings using experimental corrosion, wettability, adhesion, FESEM, FTIR, and XRD characterization data.
